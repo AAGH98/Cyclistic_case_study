@@ -188,9 +188,27 @@ The primary question is " How do annual members and casual riders use Cyclistic 
 - Per hour: casual riders have the longest duration between 10am to 2pm
 - Conclusion:  casual riders travel longer distances than annual members but use the bikes less frequently. Casual riders make longer journeys on the weekends, in spring and summer season. Casual riders tend to use the bikes for leisure reasons.
 
-  
 
 
+Summary:
+
+The key distinction between annual members and casual riders lies in their usage patterns and preferences. 
+
+1. Casual riders : typically opt for bikes throughout the day, and their usage surges during the weekends. They display a preference for cycling during the spring and summer seasons. Also, they tend to utilise the bikes for nearly twice as long as annual members do.
+
+2. Annual members: primarily favour the use of bikes for weekday commuting purposes. Their bike usage is concentrated during typical working hours of the day. They also particularly use the bikes during the spring and summer seasons. Also, they tend to make more frequent but shorter duration bike rides in comparison to casual riders 
+
+
+
+# Act
+
+After examining the differences between annual members and casual riders, it will be possible to develop marketing plans to persuade casual users to become members. Three recommendations are made:
+
+1. In the spring and summer, targeted marketing efforts could be introduced in popular tourist and leisure destinations for casual riders.
+
+2. Providing seasonal or weekend-only memberships could prove to be a successful strategy, given that casual riders tend to be more active on weekends and in the summer and spring.
+
+3. Given that casual riders typically go on longer bike rides than members, offering discounts for longer ride times may incentivise casual riders and maybe motivate members to go on longer rides as well.
 
 
 
