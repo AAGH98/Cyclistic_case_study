@@ -4,6 +4,8 @@ Case study https://www.coursera.org/learn/google-data-analytics-capstone
 
 Dataset https://divvy-tripdata.s3.amazonaws.com/index.html
 
+Data Visualisation: https://public.tableau.com/views/trips_2022/bike_types?:language=en-GB&:retry=yes&:display_count=n&:origin=viz_share_link 
+
 # Introduction
 
 A programme for sharing bicycles that has 600 docking stations and more than 5,800 bikes. In order to make bike sharing more accessible to individuals with disabilities and others who are unable to operate a traditional two-wheeled bike, Cyclistic distinguishes itself by additionally providing cargo bikes, hand tricycles, and reclining bikes. Just 8% of riders choose the assistance choices; most riders choose regular bikes. While pleasure riding is the primary purpose for cyclists, around 30% of them use their bikes for daily commuting to work.
