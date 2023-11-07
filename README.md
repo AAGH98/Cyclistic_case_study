@@ -1,10 +1,10 @@
 # Cyclistic_case_study
 
-Case study: [capstone_project] (https://www.coursera.org/learn/google-data-analytics-capstone)
+Case study: https://www.coursera.org/learn/google-data-analytics-capstone
 
 Dataset https://divvy-tripdata.s3.amazonaws.com/index.html
 
-Data Visualisation: https://public.tableau.com/views/trips_2022/bike_types?:language=en-GB&:retry=yes&:display_count=n&:origin=viz_share_link 
+Data Visualisation: https://public.tableau.com/views/trips_2022/bike_types?:language=en-GB&:retry=yes&:display_count=n&:origin=viz_share_link
 
 # Introduction
 
