@@ -1,6 +1,6 @@
 # Cyclistic_case_study
 
-Case study https://www.coursera.org/learn/google-data-analytics-capstone
+Case study: [capstone_project] (https://www.coursera.org/learn/google-data-analytics-capstone)
 
 Dataset https://divvy-tripdata.s3.amazonaws.com/index.html
 
